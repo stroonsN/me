@@ -8,7 +8,7 @@
 <br />
 <br />
 
-https://https://github-readme-stats.vercel.app/api?username=stroonsN&theme=dark&show_icons=true
+https://github-readme-stats.vercel.app/api?username=stroonsN&theme=dark&show_icons=true
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiraktas&" alt="abdulkadiraktas" /></p>
 
