@@ -1,4 +1,4 @@
-### Hi there, I'm [Abdulkadir][website] 👋
+### Hi there, I'm [stroonsN][website] 👋
 
 [<img align="left" alt="abdulkadiraktas.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="abdulkadiraktas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -8,7 +8,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadiraktas&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://https://github-readme-stats.vercel.app/api?username=stroonsN&theme=dark&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiraktas&" alt="abdulkadiraktas" /></p>
 
