@@ -16,7 +16,6 @@
 <br />
 <br />
 <details>
-<details>
   <summary> Top languages </summary>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiraktas&layout=compact)](https://github.com/abdulkadiraktas/)
@@ -33,10 +32,8 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=Salty-Chat-For-RedM-WestWorld&theme=dark)](https://github.com/abdulkadiraktas/Salty-Chat-For-RedM-WestWorld)
   </details>
-
-
-<details>
-
+  
+  
 [website]: https://str.lol
 [twitter]: https://twitter.com/stroonsN
 [youtube]: https://www.youtube.com/channel/
