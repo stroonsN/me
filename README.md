@@ -16,10 +16,24 @@
 <br />
 <br />
 <details>
+<details>
   <summary> Top languages </summary>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stroonsN&layout=compact)](https://github.com/stroonsN/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiraktas&layout=compact)](https://github.com/abdulkadiraktas/)
 </details>
+
+<details>
+  <summary>Pinned Repo</summary>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=FxServerController&theme=dark)](https://github.com/abdulkadiraktas/FxServerController)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=esxv2_Modules_Creator&theme=dark)](https://github.com/abdulkadiraktas/esxv2_Modules_Creator)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=CefLauncher&theme=dark)](https://github.com/abdulkadiraktas/CefLauncher)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=Salty-Chat-For-RedM-WestWorld&theme=dark)](https://github.com/abdulkadiraktas/Salty-Chat-For-RedM-WestWorld)
+  </details>
+
 
 <details>
 
