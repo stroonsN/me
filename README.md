@@ -1,4 +1,4 @@
-### Hi there, I'm [stroonsN][website] 👋
+### Hi there, I'm [Abdulkadir][website] 👋
 
 [<img align="left" alt="abdulkadiraktas.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="abdulkadiraktas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -8,11 +8,11 @@
 <br />
 <br />
 
-https://github-readme-stats.vercel.app/api?username=stroonsN&theme=dark&show_icons=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stroonsN&theme=dark&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiraktas&" alt="abdulkadiraktas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stroonsN" alt="stroonsN" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulkadiraktas&theme=oldie)](https://github.com/abdulkadiraktas) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=stroonsN&theme=oldie)](https://github.com/stroonsN) 
 
 ### Languages and Tools:
   [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -29,48 +29,19 @@ https://github-readme-stats.vercel.app/api?username=stroonsN&theme=dark&show_ico
 <details>
   <summary> Top languages </summary>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiraktas&layout=compact)](https://github.com/abdulkadiraktas/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stroonsN&layout=compact)](https://github.com/abdulkadiraktas/)
 </details>
 
 <details>
-  <summary>Pinned Repo</summary>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=FxServerController&theme=dark)](https://github.com/abdulkadiraktas/FxServerController)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=esxv2_Modules_Creator&theme=dark)](https://github.com/abdulkadiraktas/esxv2_Modules_Creator)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=CefLauncher&theme=dark)](https://github.com/abdulkadiraktas/CefLauncher)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=Salty-Chat-For-RedM-WestWorld&theme=dark)](https://github.com/abdulkadiraktas/Salty-Chat-For-RedM-WestWorld)
-  </details>
+[website]: https://str.lol
+[twitter]: https://twitter.com/stroonsN
+[youtube]: https://www.youtube.com/channel/
+[instagram]: https://www.instagram.com/stroonsN
 
 
-[website]: https://abdulkadiraktas.com.tr
-[twitter]: https://twitter.com/kadir_aktass
-[youtube]: https://www.youtube.com/channel/UCBjZfeaYXWpT_vOxheQZ86A
-[instagram]: https://www.instagram.com/abdul.kadir.aktas/
-[linkedin]: https://www.linkedin.com/in/abdulkadir-aktas/
-[webdevplaylist]: https://www.youtube.com/watch?v=JDW7-mR3DX0&list=PLchFjqoahGcmBjSoYbLDA_9nLWsHY6UOf
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [West World - Farming](https://www.youtube.com/watch?v=D1vEq37D8IQ)
-- [Home Creator](https://www.youtube.com/watch?v=FpT0hMKYaDQ)
-- [West World](https://www.youtube.com/watch?v=Tb5xLqgZfLM)
-- [West World](https://www.youtube.com/watch?v=Ggch40QiFOM)
-- [West World](https://www.youtube.com/watch?v=RHxc192XKBo)
-<!-- YOUTUBE:END -->
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/kibook/redm-object-spooner/pull/5) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
-2. 💪 Opened PR [#20](https://github.com/RedEM-RP/redemrp_respawn/pull/20) in [RedEM-RP/redemrp_respawn](https://github.com/RedEM-RP/redemrp_respawn)
-3. 🗣 Commented on [#339](https://github.com/tabarra/txAdmin/issues/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
-4. 💪 Opened PR [#339](https://github.com/tabarra/txAdmin/pull/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
-5. 💪 Opened PR [#29](https://github.com/RedEM-RP/redemrp_skin/pull/29) in [RedEM-RP/redemrp_skin](https://github.com/RedEM-RP/redemrp_skin)
-<!--END_SECTION:activity-->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stroonsN&label=Profile%20views&color=0e75b6&style=flat" alt="stroonsN" /> </p>
 <!--
 **abdulkadiraktas/abdulkadiraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
